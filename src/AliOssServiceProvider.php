@@ -2,8 +2,8 @@
 
 namespace ZhCNCode\AliOSS;
 
-use zhCNCode\AliOSS\Plugins\PutFile;
-use zhCNCode\AliOSS\Plugins\PutRemoteFile;
+use ZhCNCode\AliOSS\Plugins\PutFile;
+use ZhCNCode\AliOSS\Plugins\PutRemoteFile;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\ServiceProvider;
