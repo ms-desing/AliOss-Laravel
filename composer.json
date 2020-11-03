@@ -1,0 +1,28 @@
+{
+    "name": "ZhCNCode/AliOss",
+    "description": "aliyun oss filesystem storage for laravel 5+",
+    "keywords": ["aliyun", "oss", "laravel", "filesystems", "storage"],
+    "homepage": "https://github.com/zhCN-code/AliOss-Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yangxiaohui",
+            "email": "q1205977590@gmail.com"
+        }
+    ],
+    "require": {
+        "aliyuncs/oss-sdk-php": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZhCNCode\\AliOSS\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ZhCNCode\\AliOSS\\AliOssServiceProvider"
+            ]
+        }
+    }
+}
