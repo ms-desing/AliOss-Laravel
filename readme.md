@@ -9,7 +9,7 @@
 ##Installation
 In order to install AliOSS-storage, just add
 
-    "zhCN-code/AliOss-Laravel": "*"
+    "zh-cn-code/ali-oss": "*"
 
 to your composer.json. Then run `composer install` or `composer update`.  
 Or you can simply run below command to install:
