@@ -3,14 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8fe338f2-ebec-4a76-ae27-04d7d6d1f1d3" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AliOssServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AliOssServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AliOssAdapter.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AliOssAdapter.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -35,7 +35,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604382041971</updated>
-      <workItem from="1604382043348" duration="2840000" />
+      <workItem from="1604382043348" duration="3692000" />
+      <workItem from="1604386672805" duration="600000" />
+      <workItem from="1604387830857" duration="67000" />
     </task>
     <servers />
   </component>
